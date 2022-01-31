@@ -7,3 +7,4 @@ service vendor.imsrcsservice /vendor/bin/imsrcsd
     user radio
     group radio vendor_qti_diag log inet wakelock
     disabled
+    disabled
